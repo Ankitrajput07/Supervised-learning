@@ -12,28 +12,28 @@ The repository is organized cleanly by problem type for clarity and scalability.
 
 ## 📂 Folder Structure
 
-ML-Works/
+ML-Works/  <br>
 │
-├── supervised_classification/
-│   │
-│   ├── csv_files/
-│   │   ├── heart.csv
-│   │   └── social_network_ads.csv
-│   │
-│   ├── heart_disease_prediction.ipynb
-│   └── social_network_ads_prediction.ipynb
-│
-├── supervised_regression/
-│   │
-│   ├── csv_files/
-│   │   ├── Experience-Salary.csv
-│   │   ├── insurance.csv
-│   │   └── netflix_titles.csv
-│   │
-│   ├── salary_pre.ipynb
-│   ├── insurance_pre.ipynb
-│   └── netflix.ipynb
-│
+├── supervised_classification/ <br>
+│   │<br>
+│   ├── csv_files/ <br>
+│   │   ├── heart.csv<br>
+│   │   └── social_network_ads.csv<br>
+│   │<br>
+│   ├── heart_disease_prediction.ipynb<br>
+│   └── social_network_ads_prediction.ipynb<br>
+│<br>
+├── supervised_regression/<br>
+│   │<br>
+│   ├── csv_files/<br>
+│   │   ├── Experience-Salary.csv<br>
+│   │   ├── insurance.csv<br>
+│   │   └── netflix_titles.csv<br>
+│   │<br>
+│   ├── salary_pre.ipynb<br>
+│   ├── insurance_pre.ipynb<br>
+│   └── netflix.ipynb<br>
+│<br>
 └── README.md
 
 ---
